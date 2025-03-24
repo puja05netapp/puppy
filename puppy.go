@@ -22,5 +22,4 @@ func Bigbarks() string {
 
 func Bigbark1() string {
 	return new_pub.WhenGroupUp(Bark())
-	retun "Woof!"
 }
